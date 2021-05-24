@@ -2,6 +2,8 @@
 <h3 align="center">An AI enthusiast, Innovator and a Problem Solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvjairath&label=Profile%20views&color=2762ec&style=flat" alt="atharvjairath" /> </p>
+[![Twitter Badge](https://img.shields.io/badge/-@atharv_jairath-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://mobile.twitter.com/atharv_jairath) [![Linkedin Badge](https://img.shields.io/badge/-AtharvJairath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/atharv-jairath-99aa78118/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 - 🔭 I’m currently working on **ProfileMaker**
 
