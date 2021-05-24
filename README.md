@@ -2,6 +2,8 @@
 <h3 align="center">An AI enthusiast, Innovator and a Problem Solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvjairath&label=Profile%20views&color=2762ec&style=flat" alt="atharvjairath" /> </p>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
 - 🔭 I’m currently working on **ProfileMaker**
 
