@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@atharv.jairath](https://medium.com/@atharv.jairath)
 
-- 💬 Ask me about **Python, Machine/Deep Learning and my favorite Amines**
+- 💬 Ask me about **Python, Machine/Deep Learning and my favorite Animes**
 
 - 📫 How to reach me **atharv.jairath@gmail.com**
 
