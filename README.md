@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **atharv.jairath@gmail.com**
 
-- 📄 Know about my experiences [https://swiftcv.com/@atharv.jairath.409](https://swiftcv.com/@atharv.jairath.409)
+- 📄 Know about my experiences [https://swiftcv.com/@atharv.jairath.409](https://drive.google.com/file/d/1hGI70Af96iNfpmGVzbufAfGad4gUWd3P/view?usp=sharing)
 
 - ⚡ Fun fact **I am really funny! xD**
 
