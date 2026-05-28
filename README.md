@@ -20,38 +20,6 @@ I've presented research at the **Amazon ML Conference** and have a habit of winn
 
 ---
 
-### What I'm working on
-
-- Production NLP pipelines with **ModernBERT** & semantic search (Elasticsearch)
-- Multi-region **shoe segmentation** with HRNet for e-commerce
-- Multi-agent AI systems for document understanding and product intelligence
-
----
-
-### Tech
-
-**ML / AI**  
-`PyTorch` `Transformers (HuggingFace)` `scikit-learn` `OpenCV` `TensorFlow` `ONNX`
-
-**Languages & Tools**  
-`Python` `C++` `Jupyter` `FastAPI` `Flask` `Docker` `GCP` `Elasticsearch`
-
-**Domains**  
-`NLP` `Computer Vision` `Model Optimization` `Semantic Search` `Multi-agent Systems`
-
----
-
-### Selected Projects
-
-| Project | What it does |
-|---|---|
-| [Grammatical Error Correction](https://github.com/atharvjairath/AI-Image-Caption-Generator) | BERT-based GEC achieving 77% F0.5 improvement on CoNLL-2014 |
-| [AI Image Caption Generator](https://github.com/atharvjairath/AI-Image-Caption-Generator) | Encoder-decoder CNN-LSTM with InceptionV3 & GloVe embeddings |
-| [Glycosylated Hemoglobin Prediction](https://github.com/atharvjairath/Glycosylated-hemoglobin-prediction) | Weighted ensemble for Type 2 diabetes risk — published research |
-| [Flipkart Product Categorization](https://github.com/atharvjairath/Flipkart-Product-category-prediction) | Multi-class product classification from raw listing data |
-
----
-
 ### Wins
 
 - **Runable × Together 2026** — 1st place ($1,000 + $1M funding opportunity)
@@ -60,18 +28,3 @@ I've presented research at the **Amazon ML Conference** and have a habit of winn
 - **Metadome Emerging Tech Hackathon 2024** — Winner
 - **MLH Neighborhood Hacks** — 1st place (300+ participants)
 
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvjairath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvjairath&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-<p align="center">
-  <i>Currently open to interesting problems at the intersection of NLP, vision, and production systems.</i><br/>
-  <a href="mailto:atharv.jairath@gmail.com">atharv.jairath@gmail.com</a>
-</p>
