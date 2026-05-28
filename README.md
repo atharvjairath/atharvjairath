@@ -1,26 +1,77 @@
-<h1 align="center">Hi 👋, I'm Atharv Jairath</h1>
-<h3 align="center">An AI enthusiast, Innovator and a Problem Solver.</h3>
+<h1 align="center">Atharv Jairath</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvjairath&label=Profile%20views&color=2762ec&style=flat" alt="atharvjairath" /> </p>
+<p align="center">
+  <b>Founding ML Engineer · NLP & Computer Vision · Bangalore, India</b>
+</p>
 
-- 🔭 I’m currently working on **ProfileMaker**
+<p align="center">
+  <a href="https://linkedin.com/in/atharv-jairath-99aa78118"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/atharv_jairath"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@atharv.jairath"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://atharvjairath-gatech.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=atharvjairath&color=blueviolet&style=flat&label=visitors"/>
+</p>
 
-- 🌱 I’m currently learning **Deep Learning, OpenCV**
+---
 
-- 👯 I’m looking to collaborate on [Resources for Python](https://github.com/atharvjairath/Resources-for-python)
+I'm a Machine Learning Engineer with 3+ years of experience building production ML systems — from transformer-based NLP pipelines to multi-modal computer vision. Currently the **Founding ML Engineer at [Firi](https://shopfiri.com)**, where I ship things like a 97% micro-precision document parser and 2× inference speedup.
 
-- 📝 I regularly write articles on [https://medium.com/@atharv.jairath](https://medium.com/@atharv.jairath)
+I've presented research at the **Amazon ML Conference** and have a habit of winning hackathons.
 
-- 💬 Ask me about **Python, Machine/Deep Learning and my favorite Animes**
+---
 
-- 📫 How to reach me **atharv.jairath@gmail.com**
+### What I'm working on
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hGI70Af96iNfpmGVzbufAfGad4gUWd3P/view?usp=sharing)
+- Production NLP pipelines with **ModernBERT** & semantic search (Elasticsearch)
+- Multi-region **shoe segmentation** with HRNet for e-commerce
+- Multi-agent AI systems for document understanding and product intelligence
 
-- ⚡ Fun fact **I am really funny! xD**
+---
 
+### Tech
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**ML / AI**  
+`PyTorch` `Transformers (HuggingFace)` `scikit-learn` `OpenCV` `TensorFlow` `ONNX`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvjairath&show_icons=true&locale=en" alt="atharvjairath" /></p>
+**Languages & Tools**  
+`Python` `C++` `Jupyter` `FastAPI` `Flask` `Docker` `GCP` `Elasticsearch`
+
+**Domains**  
+`NLP` `Computer Vision` `Model Optimization` `Semantic Search` `Multi-agent Systems`
+
+---
+
+### Selected Projects
+
+| Project | What it does |
+|---|---|
+| [Grammatical Error Correction](https://github.com/atharvjairath/AI-Image-Caption-Generator) | BERT-based GEC achieving 77% F0.5 improvement on CoNLL-2014 |
+| [AI Image Caption Generator](https://github.com/atharvjairath/AI-Image-Caption-Generator) | Encoder-decoder CNN-LSTM with InceptionV3 & GloVe embeddings |
+| [Glycosylated Hemoglobin Prediction](https://github.com/atharvjairath/Glycosylated-hemoglobin-prediction) | Weighted ensemble for Type 2 diabetes risk — published research |
+| [Flipkart Product Categorization](https://github.com/atharvjairath/Flipkart-Product-category-prediction) | Multi-class product classification from raw listing data |
+
+---
+
+### Wins
+
+- **Runable × Together 2026** — 1st place ($1,000 + $1M funding opportunity)
+- **VibeHack 2025** — 1st place (120 teams)
+- **Smart India Hackathon 2022** — National winner
+- **Metadome Emerging Tech Hackathon 2024** — Winner
+- **MLH Neighborhood Hacks** — 1st place (300+ participants)
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvjairath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvjairath&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Currently open to interesting problems at the intersection of NLP, vision, and production systems.</i><br/>
+  <a href="mailto:atharv.jairath@gmail.com">atharv.jairath@gmail.com</a>
+</p>
